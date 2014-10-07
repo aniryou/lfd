@@ -4,7 +4,6 @@ import sys
 from numpy import random, linalg
 import numpy
 import math
-import matplotlib.pyplot as plt
 
 def sign(x):
 	return 1 if x>=0 else -1
